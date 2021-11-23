@@ -810,4 +810,28 @@ Text GLabel 5650 6300 0    50   Input ~ 0
 RIGHTSWITCH
 Text GLabel 5650 6600 0    50   Input ~ 0
 DISKONBACK
+Text Notes 3950 3400 0    50   ~ 0
+OUTPUT from IC215 (74LS541) -pin11
+Text Notes 4350 6250 0    50   ~ 0
+IC215-pin18 (74LS541)
+Text Notes 3850 6350 0    50   ~ 0
+to IC217-pin13 (74LS07), input
+Text Notes 4350 6450 0    50   ~ 0
+IC215-pin17 (74LS541)
+Text Notes 4350 6550 0    50   ~ 0
+IC215-pin16 (74LS541)
+Text Notes 3800 6850 0    50   ~ 0
+to IC217-pin5 (74LS07), input
+Text Notes 3850 6750 0    50   ~ 0
+to IC217-pin11 (74LS07), input
+Text Notes 4050 7150 0    50   ~ 0
+to IC217-pin9 (74LS07), input
+Text Notes 4000 7350 0    50   ~ 0
+to IX1269C-39, input
+Text Notes 4350 7050 0    50   ~ 0
+IC215-pin13 (74LS541)
+Text Notes 4350 7250 0    50   ~ 0
+IC215-pin12 (74LS541)
+Text Notes 4100 7450 0    50   ~ 0
+IC215-pin11 (74LS541)
 $EndSCHEMATC
