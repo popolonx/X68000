@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD558KP_copy
+D Single 8-bit DAC, Internal Reference, Output Amp, Single Supply, PLCC-20
+K 8bit DAC Reference Single Supply
+F https://www.analog.com/static/imported-files/data_sheets/AD558.pdf
+$ENDCMP
+#
+$CMP IR3K07_DIP
+D Single 8-bit DAC
+K 8bit DAC Reference Single Supply
+F https://www.analog.com/static/imported-files/data_sheets/AD558.pdf
+$ENDCMP
+#
+#End Doc Library

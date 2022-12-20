@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ha19510_dip)(type Legacy)(uri ${KIPRJMOD}/ha19510_dip.lib)(options "")(descr ""))
+  (lib (name ir3k07_dip)(type Legacy)(uri ${KIPRJMOD}/ir3k07_dip.lib)(options "")(descr ""))
+)

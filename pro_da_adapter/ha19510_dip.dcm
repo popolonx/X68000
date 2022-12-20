@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DAC0808_DIP_copy
+D 8-bit multiplying DAC
+K 8 bit multiplying DAC
+F http://www.ti.com/lit/ds/symlink/dac0808.pdf
+$ENDCMP
+#
+$CMP HA19510_DIP
+D 8-bit DAC
+K 8 bit DAC
+F http://www.pinballpcb.com/datasheets/OnMC1408-dac.pdf
+$ENDCMP
+#
+#End Doc Library
